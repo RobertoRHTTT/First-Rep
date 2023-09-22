@@ -12,7 +12,7 @@
            <header> 100 to learning Get Hub </header>
       <Body> style="background-color:rgb(243, 243, 205);">
       <article>
-        <h1> Understanding the layout
+        <h1> Understanding the layout</h1>
         <p> The layout of git hub isn't something that is impossibly complex but does require some effort. On first sight you probably recognized the basic tools that we are going to use.</p>
       </body>
       </html>
