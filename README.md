@@ -14,6 +14,7 @@
       <article>
         <h1> Understanding the layout</h1>
         <p> The layout of git hub isn't something that is impossibly complex but does require some effort. On first sight you probably recognized the basic tools that we are going to use.</p>
+          </article>
       </body>
       </html>
 
