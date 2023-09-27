@@ -38,3 +38,4 @@
 Links [video help for github](https://www.youtube.com)
 
 Some additional inspirational quotes  **Not becaue they are easy, but because they are hard -JFK.**
+A thank you to my teacher
