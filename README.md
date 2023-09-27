@@ -32,10 +32,11 @@
 | Food | Drink | Snack |
 | --- | --- | --- |
 | Sushi | Mineral water | Hummus |
-
+| Mole | Orchata | Takis |
 >Written by Roberto Rayo Herrera
 ---
 Links [video help for github](https://www.youtube.com)
 
 Some additional inspirational quotes  **Not becaue they are easy, but because they are hard -JFK.**
 Special consideration to my teacher- **Mary A Barckhoff**
+A thank you to my teacher
